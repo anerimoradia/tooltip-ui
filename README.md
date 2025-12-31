@@ -1,4 +1,4 @@
-# 📌 Tooltip Navigation UI — HTML & CSS Only
+# 📌 Tooltip Navigation UI
 
 A simple tooltip component built using only HTML and CSS, where a tooltip appears above navigation items on hover. This project focuses on CSS positioning, hover interactions, and smooth transitions without JavaScript.
 
